@@ -1,7 +1,14 @@
 # News-Application
 
+Full stack web application- News portal.
+Server-side: Java, Spring Boot.
+Client-side: React.
 
-## Instructions:
+![alt text](https://postimg.cc/RNLHH3dJ)
+
+## Getting Started
+
+### Instructions:
 
 In the Server project directory, run :
 
@@ -21,7 +28,7 @@ now you can start the client!
 
 
 
-## Instructions:
+### Instructions:
 
 In the Client project directory, run :
 
