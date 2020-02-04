@@ -1,6 +1,9 @@
+News-Application
+
+
 Instructions:
 
-In the Server project directory, you can run :
+In the Server project directory, run :
 
 ### `mvn install`
 
@@ -14,20 +17,16 @@ Run the Server on http://localhost:8080
 
 
 
-now you can run the client!
+now you can start the client!
 
 
 
 Instructions:
 
-In the Client project directory, you can run :
+In the Client project directory, run :
 
 ### `npm install`
 
 ### `npm start`
 
 Enjoy!
-
-
-
-"# News-Application" 
