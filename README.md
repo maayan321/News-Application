@@ -1,17 +1,17 @@
-News-Application
+# News-Application
 
 
-Instructions:
+## Instructions:
 
 In the Server project directory, run :
 
-### `mvn install`
+ `mvn install`
 
 Creates a .jar file of the project in.\target\ directory.
 
-### `cd .\target\`
+`cd .\target\`
 
-### `java -jar server-0.0.1-SNAPSHOT.jar`
+ `java -jar server-0.0.1-SNAPSHOT.jar`
 
 Run the Server on http://localhost:8080
 
@@ -21,12 +21,12 @@ now you can start the client!
 
 
 
-Instructions:
+## Instructions:
 
 In the Client project directory, run :
 
-### `npm install`
+`npm install`
 
-### `npm start`
+`npm start`
 
 Enjoy!
