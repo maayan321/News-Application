@@ -4,7 +4,7 @@ Full stack web application- News portal.
 Server-side: Java, Spring Boot.
 Client-side: React.
 
-![alt text](https://postimg.cc/RNLHH3dJ)
+![alt text](https://i.postimg.cc/xTWyBMb5/app-preview.png)
 
 ## Getting Started
 
